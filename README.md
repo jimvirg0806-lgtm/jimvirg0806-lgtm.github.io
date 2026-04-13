@@ -1,4 +1,4 @@
-# 🌐 Portafolio Personal — Jim Virgo
+# 🌐 Portafolio Personal — Jim Leon Virguez
 
 Portafolio web profesional construido con HTML, CSS y JavaScript puro.
 
